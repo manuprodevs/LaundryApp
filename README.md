@@ -3,4 +3,4 @@ This is a Laundry App.
 
 
 # License
-[LICENSE]
+LICENSE.md
