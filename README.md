@@ -11,5 +11,5 @@ tidelift: npm/octo-package
 custom: ["https://www.paypal.me/octocat", octocat.com]
 
 [LICENSE](LICENSE)
-![License: CC BY 4.0](https://github.com/manuprodevs/LaundryApp/blob/main/LICENSE)
+![](https://github.com/manuprodevs/LaundryApp/blob/main/LICENSE)
 
