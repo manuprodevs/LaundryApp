@@ -10,5 +10,5 @@ patreon: octocat
 tidelift: npm/octo-package
 custom: ["https://www.paypal.me/octocat", octocat.com]
 
-![LICENSE](LICENSE)
+[LICENSE](LICENSE)
 
