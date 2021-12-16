@@ -9,3 +9,13 @@ github: [octocat, surftocat]
 patreon: octocat
 tidelift: npm/octo-package
 custom: ["https://www.paypal.me/octocat", octocat.com]
+
+{
+  ...
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "url":  "https://api.github.com/licenses/mit"
+  }
+  ...
+}
